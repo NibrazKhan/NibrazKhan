@@ -2,11 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Automation+Tester+%26+Enthusiast.)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+
 - 🌱 I’m currently learning **Automation testing frameworks,CI/CD pipeline.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NibrazKhan?tab=repositories](https://github.com/NibrazKhan?tab=repositories)
 
-- 💬 Ask me about **Software testing,Strategies,Automation testing processes and frameworks,Manual Testing.**
+- 💬 Ask me about **Software testing,strategies,Automation testing frameworks,Manual Testing.**
 
 - 📫 How to reach me **nibrajkhan123@gmail.com**
 
