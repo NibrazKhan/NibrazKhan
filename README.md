@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Software testing,strategies,Automation testing frameworks,Manual Testing.**
 
-- 📫 How to reach me **nibrajkhan123@gmail.com**
+- 📫 You can reach me at: **nibrajkhan123@gmail.com**
 
 Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic motion."**
 <h3 align="center">Connect with me:</h3>
