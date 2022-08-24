@@ -17,7 +17,6 @@ Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic
 <p align="center">
 <a href="https://linkedin.com/in/nibraz-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nibraz-khan" height="30" width="40" /></a>
 <a href="https://fb.com/farhanfuhad.nibraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhanfuhad.nibraj" height="30" width="40" /></a>
-<a href="https://instagram.com/farhan_nibraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhan_nibraj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nibrajkhan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nibrajkhan123" height="30" width="40" /></a>
 </p>
 
