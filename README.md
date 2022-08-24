@@ -29,5 +29,7 @@ Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NibrazKhan&theme=highcontrast)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NibrazKhan)](https://github.com/NibrazKhan/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nibrazkhan&label=Profile%20views&color=0e75b6&style=flat" alt="nibrazkhan" /> </p>
 
